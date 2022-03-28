@@ -31,7 +31,8 @@ This script can track different things other than this specific election. This e
 We used variables to track the winner for candidates and county.
 ![winning_largest](Resources/winning_largest.png)
 
-Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. NOw say you want to modifiy and get the last place candidate or counties with less than 5% of the votes. We would modify the data below:
+Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:
+![modifycounty](Resources/modifycounty.png)
+![modifycandidate](Resources/modifycandidate.png)
 
-
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+By modifing these two parts of the program we can track many statistics of the votes by county or candidate or age group. We could track what age of voters cast a vote and see if what they younger generation is concerned about. This is a very power tool which can be used to get information so the best decisions can made for the general public. 
