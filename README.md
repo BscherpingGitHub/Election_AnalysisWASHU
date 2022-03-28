@@ -29,11 +29,14 @@ Which candidate won the election, what was their vote count, and what was their 
 This script can track different things other than this specific election. This election we used lists and dictionarys to track the candidates and counties.<br/>
 <br/>
 ![candidate_county](Resources/candidate_county.png)<br/>
+<br/>
 We used variables to track the winner for candidates and county.<br/>
 ![winning_largest](Resources/winning_largest.png)
 
 Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:<br/>
+<br/>
 ![modifycounty](Resources/modifycounty.png)<br/>
+<br/>
 ![modifycandidate](Resources/modifycandidate.png)
 
 By modifing these two parts of the program we can use statistical analysis when looking at votes by county or candidate or age group. We could track what age of voters cast a vote and see what the younger generation is concerned about. This is a power tool which can be used to get information so the best decisions can made for the general public. 
