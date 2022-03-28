@@ -4,6 +4,7 @@
 ## Overview of Election Audit
 The election commission wants a detailed list of information on the election. This data will help the commission understand total votes for each region and candidates.
 
+## Election-Audit Results
 How many votes were cast in this congressional election?
 - 396,711
 
@@ -25,7 +26,7 @@ Which candidate won the election, what was their vote count, and what was their 
 - Her vote count was 272,892 votes. 
 - Her vote percentage was 73.8%.
 
-## Summary
+## Election-Audit Summary
 This script can track other candidates and counties at other elections. This election we used lists and dictionaries to track the candidates and counties.<br/>
 <br/>
 ![candidate_county](Resources/candidate_county.png)<br/>
