@@ -1,7 +1,7 @@
 # Election_AnalysisWASHU
 ## Washu Python
 
-## Overview of Election Audit: Explain the purpose of this election audit analysis.
+## Overview of Election Audit
 The election commission wants a detailed list of information on the election. This data will help the commission understand total votes for each region and candidates.
 
 How many votes were cast in this congressional election?
