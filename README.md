@@ -31,6 +31,7 @@ This script can track different things other than this specific election. This e
 ![candidate_county](Resources/candidate_county.png)<br/>
 <br/>
 We used variables to track the winner for candidates and county.<br/>
+<br/>
 ![winning_largest](Resources/winning_largest.png)
 
 Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:<br/>
