@@ -2,7 +2,7 @@
 ## Washu Python
 
 ## Overview of Election Audit: Explain the purpose of this election audit analysis.
-The election commission wants a detailed list of information on the election. This data will help the commediate understand total votes for each region and candidates.
+The election commission wants a detailed list of information on the election. This data will help the commission understand total votes for each region and candidates.
 
 How many votes were cast in this congressional election?
 - 396,711
@@ -26,13 +26,14 @@ Which candidate won the election, what was their vote count, and what was their 
 - Her vote percentage was 73.8%.
 
 ## Summary
-This script can track different things other than this specific election. This election we used lists and dictionarys to track the candidates and counties.
-![candidate_county](Resources/candidate_county.png)
-We used variables to track the winner for candidates and county.
+This script can track different things other than this specific election. This election we used lists and dictionarys to track the candidates and counties.<br/>
+<br/>
+![candidate_county](Resources/candidate_county.png)<br/>
+We used variables to track the winner for candidates and county.<br/>
 ![winning_largest](Resources/winning_largest.png)
 
-Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:
-![modifycounty](Resources/modifycounty.png)
+Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:<br/>
+![modifycounty](Resources/modifycounty.png)<br/>
 ![modifycandidate](Resources/modifycandidate.png)
 
-By modifing these two parts of the program we can track many statistics of the votes by county or candidate or age group. We could track what age of voters cast a vote and see if what they younger generation is concerned about. This is a very power tool which can be used to get information so the best decisions can made for the general public. 
+By modifing these two parts of the program we can use statistical analysis when looking at votes by county or candidate or age group. We could track what age of voters cast a vote and see what the younger generation is concerned about. This is a power tool which can be used to get information so the best decisions can made for the general public. 
