@@ -26,7 +26,7 @@ Which candidate won the election, what was their vote count, and what was their 
 - Her vote percentage was 73.8%.
 
 ## Summary
-This script can track different things other than this specific election. This election we used lists and dictionarys to track the candidates and counties.<br/>
+This script can track other candidates and counties at other elections. This election we used lists and dictionaries to track the candidates and counties.<br/>
 <br/>
 ![candidate_county](Resources/candidate_county.png)<br/>
 <br/>
@@ -34,10 +34,10 @@ We used variables to track the winner for candidates and county.<br/>
 <br/>
 ![winning_largest](Resources/winning_largest.png)
 
-Now we can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:<br/>
+We can use these same lists, dictionaries, and variables to track any election if given the correct information. Now say you want the last place candidate or counties with less than 5% of the votes. We would modify the data below:<br/>
 <br/>
 ![modifycounty](Resources/modifycounty.png)<br/>
 <br/>
 ![modifycandidate](Resources/modifycandidate.png)
 
-By modifing these two parts of the program we can use statistical analysis when looking at votes by county or candidate or age group. We could track what age of voters cast a vote and see what the younger generation is concerned about. This is a power tool which can be used to get information so the best decisions can made for the general public. 
+By modifying these two parts of the program we can use statistical analysis when looking at votes by county or candidate or age group. Say we wanted to look at age group of the voters. We can modify the lists, dictionaries, and variables so we can track what ages showed up to vote. With this information, we can see a small or strong presence. If there was a bad showing of young adults, we can ask why. Maybe it was during school when they couldn’t vote.  This program is a powerful tool which can be used to get information so the election is being utilized to its fullest potential. 
